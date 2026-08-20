@@ -1,0 +1,6 @@
+{
+  "name": "Biometric Time Clock",
+  "description": "A secure, mobile-friendly employee time clock with biometric photo verification and automatic offline synchronization.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
